@@ -1,5 +1,5 @@
 {
-  "name": "draft-js-export-html",
+  "name": "@plotly/draft-js-export-html",
   "version": "1.2.0",
   "description": "DraftJS: Export ContentState to HTML",
   "main": "lib/main.js",
