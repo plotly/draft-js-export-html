@@ -13,7 +13,7 @@
   },
   "peerDependencies": {
     "draft-js": ">=0.10.0",
-    "immutable": "3.x.x"
+    "immutable": "^4.2.2"
   },
   "devDependencies": {
     "@types/draft-js": "^0.7.33"
