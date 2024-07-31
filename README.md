@@ -4,6 +4,12 @@ This is a module for [DraftJS](https://github.com/facebook/draft-js) that will e
 
 It was extracted from [React-RTE](https://react-rte.org) and placed into a separate module for more general use. Hopefully it can be helpful in your projects.
 
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-plotly.png" width="400px" alt="Maintained by Plotly">
+  </a>
+</div>
+
 ## Installation
 
     npm install --save draft-js-export-html
